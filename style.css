@@ -62,3 +62,7 @@
   height: 15rem;
   overflow-y: hidden;
 }
+
+.animate__animated.animate__lightSpeedInLeft {
+  --animate-duration: .7s;
+}
