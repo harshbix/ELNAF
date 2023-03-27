@@ -113,5 +113,5 @@
 }
 .socials:hover
 {
-  transform: translateX(-10px);
+  transform: translateY(-10px);
 }
