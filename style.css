@@ -115,3 +115,21 @@
 {
   transform: translateY(-10px);
 }
+.newsletter
+{
+  background: linear-gradient(to bottom, #cccccc, white);
+  padding: 60px;
+}
+.newsletter-input
+{
+  padding: 6px;
+}
+.newsletter-input:focus
+{
+  outline: none;
+}
+.health-post
+{
+  background-color: #5A9AD2;
+  padding: 20px;
+}
